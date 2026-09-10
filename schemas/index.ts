@@ -6,6 +6,7 @@ import insight from './insight'
 import siteSettings from './siteSettings'
 import platformPage from './platformPage'
 import aiUniversityPage from './aiUniversityPage'
+import aiWorkforceFactoryPage from './aiWorkforceFactoryPage'
 import aiLearningEnginePage from './aiLearningEnginePage'
 import companyPage from './companyPage'
 import contactPage from './contactPage'
@@ -31,6 +32,7 @@ export const schemaTypes = [
   // Individual pages
   platformPage,
   aiUniversityPage,
+  aiWorkforceFactoryPage,
   aiLearningEnginePage,
   companyPage,
   contactPage,
